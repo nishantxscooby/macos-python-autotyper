@@ -1,9 +1,7 @@
-# ⌨️ AutoTyper for macOS (Python)
+# macOS Python AutoTyper using PyAutoGUI
 
-A lightweight, safety-focused Python auto-typing tool for macOS.  
-It reads text from a file and automatically types it into any active application after a short delay.
-
-Built with macOS constraints, user control, and clean setup in mind.
+A macOS-compatible Python auto-typing tool built using PyAutoGUI.  
+This project automatically types text or source code from a file into any focused macOS application, with built-in safety fail-safes and one-click setup.
 
 ---
 
@@ -127,6 +125,16 @@ PyAutoGUI will immediately stop execution.
 
 This tool is intended for educational and productivity purposes only.  
 The user is responsible for its usage.
+
+---
+
+## 🔍 Keywords
+
+macos python autotyper  
+pyautogui autotyper  
+macos automation python  
+auto typing tool macos  
+github python automation
 
 ---
 
